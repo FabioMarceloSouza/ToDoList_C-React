@@ -1,0 +1,76 @@
+{
+  "version": 2,
+  "dgSpecHash": "/8Sb6uvHrqRilpJvp8DPRaOxG+4FpVpyf228j8HFyiertk7ibDlPiBZsY2A0RoINlE3OrXrSwObVImuoOH+VqA==",
+  "success": true,
+  "projectFilePath": "C:\\Projetos\\WebApiCrud\\WebApiCrud.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\maycon.felipe\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
+    "C:\\Users\\maycon.felipe\\.nuget\\packages\\microsoft.data.sqlite.core\\6.0.0-preview.1.21102.2\\microsoft.data.sqlite.core.6.0.0-preview.1.21102.2.nupkg.sha512",
+    "C:\\Users\\maycon.felipe\\.nuget\\packages\\microsoft.entityframeworkcore\\6.0.0-preview.1.21102.2\\microsoft.entityframeworkcore.6.0.0-preview.1.21102.2.nupkg.sha512",
+    "C:\\Users\\maycon.felipe\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\6.0.0-preview.1.21102.2\\microsoft.entityframeworkcore.abstractions.6.0.0-preview.1.21102.2.nupkg.sha512",
+    "C:\\Users\\maycon.felipe\\.nuget\\packages\\microsoft.entityframeworkcore.analyzers\\6.0.0-preview.1.21102.2\\microsoft.entityframeworkcore.analyzers.6.0.0-preview.1.21102.2.nupkg.sha512",
+    "C:\\Users\\maycon.felipe\\.nuget\\packages\\microsoft.entityframeworkcore.design\\6.0.0-preview.1.21102.2\\microsoft.entityframeworkcore.design.6.0.0-preview.1.21102.2.nupkg.sha512",
+    "C:\\Users\\maycon.felipe\\.nuget\\packages\\microsoft.entityframeworkcore.relational\\6.0.0-preview.1.21102.2\\microsoft.entityframeworkcore.relational.6.0.0-preview.1.21102.2.nupkg.sha512",
+    "C:\\Users\\maycon.felipe\\.nuget\\packages\\microsoft.entityframeworkcore.sqlite\\6.0.0-preview.1.21102.2\\microsoft.entityframeworkcore.sqlite.6.0.0-preview.1.21102.2.nupkg.sha512",
+    "C:\\Users\\maycon.felipe\\.nuget\\packages\\microsoft.entityframeworkcore.sqlite.core\\6.0.0-preview.1.21102.2\\microsoft.entityframeworkcore.sqlite.core.6.0.0-preview.1.21102.2.nupkg.sha512",
+    "C:\\Users\\maycon.felipe\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\maycon.felipe\\.nuget\\packages\\microsoft.extensions.caching.abstractions\\6.0.0-preview.1.21102.12\\microsoft.extensions.caching.abstractions.6.0.0-preview.1.21102.12.nupkg.sha512",
+    "C:\\Users\\maycon.felipe\\.nuget\\packages\\microsoft.extensions.caching.memory\\6.0.0-preview.1.21102.12\\microsoft.extensions.caching.memory.6.0.0-preview.1.21102.12.nupkg.sha512",
+    "C:\\Users\\maycon.felipe\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\6.0.0-preview.1.21102.12\\microsoft.extensions.configuration.abstractions.6.0.0-preview.1.21102.12.nupkg.sha512",
+    "C:\\Users\\maycon.felipe\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\6.0.0-preview.1.21102.12\\microsoft.extensions.dependencyinjection.6.0.0-preview.1.21102.12.nupkg.sha512",
+    "C:\\Users\\maycon.felipe\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\6.0.0-preview.1.21102.12\\microsoft.extensions.dependencyinjection.abstractions.6.0.0-preview.1.21102.12.nupkg.sha512",
+    "C:\\Users\\maycon.felipe\\.nuget\\packages\\microsoft.extensions.dependencymodel\\6.0.0-preview.1.21102.12\\microsoft.extensions.dependencymodel.6.0.0-preview.1.21102.12.nupkg.sha512",
+    "C:\\Users\\maycon.felipe\\.nuget\\packages\\microsoft.extensions.logging\\6.0.0-preview.1.21102.12\\microsoft.extensions.logging.6.0.0-preview.1.21102.12.nupkg.sha512",
+    "C:\\Users\\maycon.felipe\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\6.0.0-preview.1.21102.12\\microsoft.extensions.logging.abstractions.6.0.0-preview.1.21102.12.nupkg.sha512",
+    "C:\\Users\\maycon.felipe\\.nuget\\packages\\microsoft.extensions.options\\6.0.0-preview.1.21102.12\\microsoft.extensions.options.6.0.0-preview.1.21102.12.nupkg.sha512",
+    "C:\\Users\\maycon.felipe\\.nuget\\packages\\microsoft.extensions.primitives\\6.0.0-preview.1.21102.12\\microsoft.extensions.primitives.6.0.0-preview.1.21102.12.nupkg.sha512",
+    "C:\\Users\\maycon.felipe\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\maycon.felipe\\.nuget\\packages\\sqlitepclraw.bundle_e_sqlite3\\2.0.5-pre20210119130047\\sqlitepclraw.bundle_e_sqlite3.2.0.5-pre20210119130047.nupkg.sha512",
+    "C:\\Users\\maycon.felipe\\.nuget\\packages\\sqlitepclraw.core\\2.0.5-pre20210119130047\\sqlitepclraw.core.2.0.5-pre20210119130047.nupkg.sha512",
+    "C:\\Users\\maycon.felipe\\.nuget\\packages\\sqlitepclraw.lib.e_sqlite3\\2.0.5-pre20210119130047\\sqlitepclraw.lib.e_sqlite3.2.0.5-pre20210119130047.nupkg.sha512",
+    "C:\\Users\\maycon.felipe\\.nuget\\packages\\sqlitepclraw.provider.dynamic_cdecl\\2.0.5-pre20210119130047\\sqlitepclraw.provider.dynamic_cdecl.2.0.5-pre20210119130047.nupkg.sha512",
+    "C:\\Users\\maycon.felipe\\.nuget\\packages\\swashbuckle.aspnetcore\\5.6.3\\swashbuckle.aspnetcore.5.6.3.nupkg.sha512",
+    "C:\\Users\\maycon.felipe\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\5.6.3\\swashbuckle.aspnetcore.swagger.5.6.3.nupkg.sha512",
+    "C:\\Users\\maycon.felipe\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\5.6.3\\swashbuckle.aspnetcore.swaggergen.5.6.3.nupkg.sha512",
+    "C:\\Users\\maycon.felipe\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\5.6.3\\swashbuckle.aspnetcore.swaggerui.5.6.3.nupkg.sha512",
+    "C:\\Users\\maycon.felipe\\.nuget\\packages\\system.collections.immutable\\6.0.0-preview.1.21102.12\\system.collections.immutable.6.0.0-preview.1.21102.12.nupkg.sha512",
+    "C:\\Users\\maycon.felipe\\.nuget\\packages\\system.componentmodel.annotations\\6.0.0-preview.1.21102.12\\system.componentmodel.annotations.6.0.0-preview.1.21102.12.nupkg.sha512",
+    "C:\\Users\\maycon.felipe\\.nuget\\packages\\system.diagnostics.diagnosticsource\\6.0.0-preview.1.21102.12\\system.diagnostics.diagnosticsource.6.0.0-preview.1.21102.12.nupkg.sha512",
+    "C:\\Users\\maycon.felipe\\.nuget\\packages\\system.memory\\4.5.3\\system.memory.4.5.3.nupkg.sha512",
+    "C:\\Users\\maycon.felipe\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0-preview.1.21102.12\\system.runtime.compilerservices.unsafe.6.0.0-preview.1.21102.12.nupkg.sha512",
+    "C:\\Users\\maycon.felipe\\.nuget\\packages\\system.text.encodings.web\\6.0.0-preview.1.21102.12\\system.text.encodings.web.6.0.0-preview.1.21102.12.nupkg.sha512",
+    "C:\\Users\\maycon.felipe\\.nuget\\packages\\system.text.json\\6.0.0-preview.1.21102.12\\system.text.json.6.0.0-preview.1.21102.12.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1603",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "WebApiCrud depende de Microsoft.EntityFrameworkCore (>= 5.6.0-preview.4.22229.2), mas Microsoft.EntityFrameworkCore 5.6.0-preview.4.22229.2 não foi encontrado. A melhor correspondência aproximada de Microsoft.EntityFrameworkCore 6.0.0-preview.1.21102.2 foi resolvida.",
+      "libraryId": "Microsoft.EntityFrameworkCore",
+      "targetGraphs": [
+        "net5.0"
+      ]
+    },
+    {
+      "code": "NU1603",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "WebApiCrud depende de Microsoft.EntityFrameworkCore.Design (>= 5.6.0-preview.4.22229.2), mas Microsoft.EntityFrameworkCore.Design 5.6.0-preview.4.22229.2 não foi encontrado. A melhor correspondência aproximada de Microsoft.EntityFrameworkCore.Design 6.0.0-preview.1.21102.2 foi resolvida.",
+      "libraryId": "Microsoft.EntityFrameworkCore.Design",
+      "targetGraphs": [
+        "net5.0"
+      ]
+    },
+    {
+      "code": "NU1603",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "WebApiCrud depende de Microsoft.EntityFrameworkCore.Sqlite (>= 5.6.0-preview.4.22229.2), mas Microsoft.EntityFrameworkCore.Sqlite 5.6.0-preview.4.22229.2 não foi encontrado. A melhor correspondência aproximada de Microsoft.EntityFrameworkCore.Sqlite 6.0.0-preview.1.21102.2 foi resolvida.",
+      "libraryId": "Microsoft.EntityFrameworkCore.Sqlite",
+      "targetGraphs": [
+        "net5.0"
+      ]
+    }
+  ]
+}
